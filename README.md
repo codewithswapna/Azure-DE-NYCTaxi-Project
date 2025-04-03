@@ -101,7 +101,4 @@ This **dynamic logic** ensured smooth API calls for all **12 months**! 🚀
 ✔ **Powerful visualizations** with **Power BI**  
 
 This project provides a **real-world blueprint** for **scalable, structured & performance-optimized data engineering solutions**. 🎉  
-
-This project provides a real-world blueprint for scalable, structured & performance-optimized data engineering solutions.
-
 ---
