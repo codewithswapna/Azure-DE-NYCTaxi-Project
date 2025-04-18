@@ -103,8 +103,9 @@ This **dynamic logic** ensured smooth API calls for all **12 months**! 🚀
 ✔ **Powerful visualizations** with **Power BI**  
 
 ## 📚 References
-✔   Data source Link: [www.nyc.gov/site/tlc/about/tlc-trip-record-datapage]
-✔   CSV Files Link: [github.com/Nyc-Taxi-Data-Engineering-Project]
+✔  **Data source Link:** [www.nyc.gov/site/tlc/about/tlc-trip-record-datapage].
+
+✔  **CSV Files Link:** [github.com/Nyc-Taxi-Data-Engineering-Project]
 
 
 This project provides a **real-world blueprint** for **scalable, structured & performance-optimized data engineering solutions**. 🎉  
