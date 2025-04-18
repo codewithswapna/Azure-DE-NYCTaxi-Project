@@ -44,7 +44,9 @@ The NYC taxi dataset contains **massive volumes of raw trip records** that requi
 
 ---
 
-## 📊 Project Architecture  
+## 📊 Project Architecture
+
+![Project Architecture](Assets/images/Nyc-Taxi-Data-Engineering-Project-Architecture.png)
 
 ### 🏗️ End-to-End Data Pipeline: Ingestion, Transformation & Reporting  
 
